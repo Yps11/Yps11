@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yps11
-- 👀 I’m interested in gaming, sci-fi movies/books
+- 👀 I’m interested in gaming, sci-fi or fantasy movies/books
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
